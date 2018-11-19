@@ -11,15 +11,15 @@ This project displays a basic functionality of a School Management System
 
 ## Installation
 
-1.Compile the .cpp code on any C-compatible IDE
-2.Run the compiled file
+1. Compile the .cpp code on any C-compatible IDE
+2. Run the compiled file
 
 ## Authors
 
--Anosha Rehan
--Qurat-ul-Ain
--Yusra Abassi
--Nimra Asif
+- Anosha Rehan
+- Qurat-ul-Ain
+- Yusra Abassi
+- Nimra Asif
 
 ## License & Copyrights
 
